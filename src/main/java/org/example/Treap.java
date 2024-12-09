@@ -1,4 +1,4 @@
-package org.example.hm8;
+package org.example;
 
 import lombok.Getter;
 
